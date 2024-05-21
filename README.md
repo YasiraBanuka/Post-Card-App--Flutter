@@ -28,7 +28,7 @@ These instructions will help you set up and run the project on your local machin
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/flutter_post_cards.git
+   git clone https://github.com/YasiraBanuka/Post-Card-App--Flutter.git
 
 2. **Install dependencies:**
 
