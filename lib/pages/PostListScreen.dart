@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:post_cards/post.dart';
+import 'package:post_cards/model/post.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
