@@ -11,8 +11,7 @@ A simple and attractive Flutter application that fetches posts from an API and d
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Post Details](screenshots/post_details.png)
+https://github.com/YasiraBanuka/Post-Card-App--Flutter/assets/111946114/e29ffa3c-7a0b-4217-8845-c3496024fd1b
 
 ## Getting Started
 
